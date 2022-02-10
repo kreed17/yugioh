@@ -1,0 +1,27 @@
+
+
+.card-info {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+}
+
+.card-figure {
+
+}
+
+.card-description {
+    display: flex;
+    margin-left: 20px;
+    width: 30%;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+span {
+    color:white;
+}

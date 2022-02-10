@@ -1,0 +1,22 @@
+
+
+.new-hand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sample-hand  {
+    margin: auto;
+    text-align: center;
+}
+.sample-hand button {
+    margin:40px ;
+    width: 150px;
+    height: 40px;
+}
+
+
+.sample-hand button:hover {
+    cursor: pointer;
+}

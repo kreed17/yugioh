@@ -1,0 +1,32 @@
+
+.home {
+    text-align: center;    
+}
+.home p {
+    margin: 30px;
+   margin-bottom: 60px;
+}
+
+.list-container a{
+    text-decoration: none;
+    color: inherit;
+}
+.li1 {
+    border-top:1px solid black;
+}
+.list-container li {
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+    padding:60px ;
+background-color: #4E606A;
+}
+
+.list-container .li1:hover .li2:hover .li3:hover {
+    background-color: #BB4F4F;
+}
+
+
+   
+   ul  a li:hover, ul  a li:focus {
+    background-color:#BB4F4F;
+   }

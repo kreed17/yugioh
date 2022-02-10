@@ -1,0 +1,13 @@
+
+form  {
+    display: flex;
+    align-items: center;
+}
+p {
+    margin-right:5px ;
+}
+input {
+    height: 26px;
+    width: 60%;
+    border-radius: 4px;
+}
